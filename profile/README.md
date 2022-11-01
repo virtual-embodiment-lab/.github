@@ -1,12 +1,3 @@
-## Hi there 👋
+## The Virtual Embodiment Lab in the Cornell Communication Department studies embodiment and presence in virtual environments.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We ask how the way you see your own and others’ actions represented affects how you understand your self, others and your environment.  We also explore how changing this representation can change people’s perceptions and allow them to collaborate, learn, and experience in ways that they can’t in the real world.
